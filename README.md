@@ -1,5 +1,13 @@
-### Hi there 👋
+<div align="center">    
+<a href="https://github.com/aussio/github-stats">
+        
+![](https://raw.githubusercontent.com/aussio/github-stats/master/generated/overview.svg)
+![](https://github.com/aussio/github-stats/blob/master/generated/languages.svg)
+        
+</a>
+</div>
 
+### Hi there 👋
 
 - 🗺 You can find my personal website at: https://auss.io
     - (It may take a moment...it's Heroku's free tier 😅)
