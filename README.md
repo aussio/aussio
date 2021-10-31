@@ -12,8 +12,7 @@
 - 🗺 You can find my personal website at: https://auss.io
     - (It may take a moment...it's Heroku's free tier 😅)
 - 🔭 I’m currently working on:
-    - My new job at [TrueAccord](https://www.trueaccord.com/)
-    - Teaching Computer Science at [Long-View Micro School](long-view.com)
-- 🌱 I’m currently learning Scala and Akka
+    - My new job at [Shippo](https://goshippo.com/)
+- 🌱 I’m currently learning Golang and React
 - 😄 Pronouns: He/Him
 - 🐶 My dogs: https://www.instagram.com/austin.shepsky/
