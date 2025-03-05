@@ -9,10 +9,7 @@
 
 ### Hi there 👋
 
-- 🗺 You can find my personal website at: https://auss.io
-    - (It may take a moment...it's Heroku's free tier 😅)
-- 🔭 I’m currently working on:
-    - My new job at [Shippo](https://goshippo.com/)
-- 🌱 I’m currently learning Golang and React
+- 🗺 You can find me on LinkedIn here: https://www.linkedin.com/in/austin-curtis-engineer/
+- 🔭 I’m currently working at Brightwheel and playing with making games.
+- 🌱 I’m currently learning Chess and Spanish
 - 😄 Pronouns: He/Him
-- 🐶 My dogs: https://www.instagram.com/austin.shepsky/
